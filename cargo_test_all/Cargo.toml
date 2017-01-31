@@ -1,0 +1,7 @@
+[workspace]
+
+members = [
+    "core",
+    "dep_first",
+    "dep_second",
+]

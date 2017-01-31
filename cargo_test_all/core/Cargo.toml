@@ -1,0 +1,11 @@
+[package]
+name = "core"
+version = "0.1.0"
+authors = ["Aleksey Sidorov <gorthauer87@yandex.ru>"]
+
+[dependencies]
+
+
+[features]
+default = []
+crazy = []
